@@ -15,7 +15,7 @@
     "handlebars": "^4.7.7",
     "mineflayer": "^4.2.0"
   },
-    "engines": {
+  "engines": {
     "node": "14.x"
   }
 }
