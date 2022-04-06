@@ -13,9 +13,6 @@ bot.once("spawn", ()=>{
     bot.chat("caca");
 });
 
-bot.setControlState('jump', true)
-;
-
 const caminar = bot.setControlState('forward', true)
 
 ;
