@@ -10,7 +10,7 @@ var settings = {
 const bot = mineflayer.createBot(settings);
 
 bot.once("spawn", ()=>{
-    bot.chat("caca");
+    bot.chat("Hola");
 });
 
 bot.setControlState('jump', true)
