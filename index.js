@@ -2,8 +2,8 @@ const mineflayer = require("mineflayer");
 
 var settings = {
     username: "Capo",
-    host: "free8.falix.cc",
-    port: "49404",
+    host: "game3.falix.cc",
+    port: "61450",
     version: "1.18.1",
 };
 
