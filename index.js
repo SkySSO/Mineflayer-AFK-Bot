@@ -1,16 +1,16 @@
 const mineflayer = require("mineflayer");
 
 var settings = {
-    username: "Capo",
-    host: "game3.falix.cc",
-    port: "61450",
-    version: "1.18.1",
+    username: "Omnipresent",
+    host: "Sponko18.aternos.me",
+    port: "15754",
+    version: "1.19",
 };
 
 const bot = mineflayer.createBot(settings);
 
 bot.once("spawn", ()=>{
-    bot.chat("caca");
+    bot.chat("Bow down to me");
 });
 
 const caminar = bot.setControlState('forward', true)
