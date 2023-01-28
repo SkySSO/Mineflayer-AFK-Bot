@@ -4,7 +4,7 @@ var settings = {
     username: "Omnipresent",
     host: "Sponko18.aternos.me",
     port: "15754",
-    version: "1.19",
+    version: "1.19.2",
 };
 
 const bot = mineflayer.createBot(settings);
